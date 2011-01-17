@@ -3,7 +3,7 @@
 /*
 Plugin Name: Mindnode Foundation Builder
 Plugin URI: http://studio2108.com/mindnode-wordpress-plugin/
-Description: Imports a MindMap .opml file, and creates pages based on the structure.  Helpful for setting up brand new sites. WARNING it will nuke ALL pages/posts (drops the wp_posts table) on your site, so only use this in the beginning! See www.mindnode.com for the Mind Node software.
+Description: Imports a MindMap .opml file, and creates pages based on the structure.  Helpful for setting up brand new sites. WARNING it will nuke ALL pages/posts (drops the wp_posts table) on your site, so only use this in the beginning! See www.mindnode.com for the Mind Node software.  Check out the screencast demo at http://studio2108.com/mindnode-wordpress-plugin/
 Author: Neight Haskins
 Author URI: http://studio2108.com/mindnode-wordpress-plugin/
 License: GPLv2
