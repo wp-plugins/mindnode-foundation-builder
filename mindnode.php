@@ -61,7 +61,7 @@ function build_page_function()  {?>
 	</form>
 	
     <p>Example mind map.. follow this format for best results.  One central node, and a bunch of branches and children.  You can add as many branches as you need.</p>    
-    <img style="border: 1px solid #ccc;padding: 10px;"src="<?php bloginfo('url') ?>/wp-content/plugins/mindnode/example.png"/>   
+    <img style="border: 1px solid #ccc;padding: 10px;"src="<?php bloginfo('url') ?>/wp-content/plugins/mindnode-foundation-builder/example.png"/>   
  
     
 
